@@ -2,7 +2,7 @@
 
 /* Mobile version */
 
-@media (max-width: 576px) {
+@media (min-width: 576px) {
 	.navbar {
 		z-index: 100;
 		position: fixed;
@@ -113,7 +113,7 @@
 
 /* Tablet Version */
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
 	.jumbotron {
 		background-image: url(../img/3.jpg);
 		background-size: cover;
