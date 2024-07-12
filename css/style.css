@@ -2,7 +2,7 @@
 
 /* Mobile version */
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
 	.navbar {
 		z-index: 100;
 		position: fixed;
