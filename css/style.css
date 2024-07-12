@@ -109,12 +109,12 @@
 		margin-left: 25%;
 		border-radius: 25px;
 	}
-    
+
 }
 
 /* Tablet Version */
 
-/* @media (max-width: 768px) {
+@media (min-width: 768px) {
 	.jumbotron {
 		background-image: url(../img/3.jpg);
 		background-size: cover;
@@ -198,11 +198,11 @@
 		font-weight: 600;
 		font-size: 40px;
 	}
-} */
+}
 
 /* Dekstop version */
 
-@media (max-width: 1200px) {
+@media (min-width: 992px) {
 	.navbar {
 		z-index: 100;
 		position: relative;
