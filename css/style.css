@@ -67,7 +67,7 @@
 	margin-top: 15px;
 	font-weight: 300;
 	font-family: "Poppins", sans-serif;
-	font-size: 18px;
+	font-size: 12px;
 	text-align: justify;
 	position: relative;
 }
@@ -191,7 +191,7 @@
 
 @media (min-width: 992px) {
 	.jumbotron {
-		height: 100%;
+		height: auto;
 		width: auto;
 	}
 
