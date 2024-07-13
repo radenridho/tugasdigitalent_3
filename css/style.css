@@ -97,9 +97,10 @@
 
 	.card  {
 		border-radius: 25px;
+		height: auto;
 	} 
 
-	.card img {
+	.card .wahana-img {
 		border-radius: 25px;
 		height: 30%;
 	}
@@ -178,5 +179,7 @@
 
 	@media (min-width: 768px) {
 		
+		.card img {
 
+		}
 	}
