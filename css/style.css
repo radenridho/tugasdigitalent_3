@@ -159,7 +159,7 @@
 		} 
 
 		.card .wahana-img {
-			border-radius: 25px;
+			border-radius: 25px !important;
 			height: 100px;
 		}
 		
@@ -187,6 +187,6 @@
 		.card .wahana-img {
 			height: auto;
 			width: auto;
-			border-radius: 25px;
+			border-radius: 25px !important;
 		}
 	}
