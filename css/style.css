@@ -190,8 +190,7 @@
 	}
 }
 
-@media (min-width: 992px)
-{
+@media (min-width: 992px) {
 	.jumbotron {
 		height: 100%;
 	}
