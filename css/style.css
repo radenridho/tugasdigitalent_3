@@ -101,7 +101,7 @@
 
 	.card img {
 		border-radius: 25px;
-		height: 20%;
+		height: 20% !important;
 	}
 	
 	.card-body .card-title {
@@ -158,7 +158,7 @@
 
 		.card img {
 			border-radius: 25px;
-			max-height: auto;
+			max-height: 20%;
 		}
 		
 		.card-body .card-title {
@@ -177,8 +177,6 @@
 	/* =============================== Tablet Version ================================== */
 
 	@media (min-width: 768px) {
-		.card {
-			max-width: 540px;
-		}
+		
 
 	}
