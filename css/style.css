@@ -97,7 +97,6 @@
 
 	.card  {
 		border-radius: 25px;
-		height: auto;
 	} 
 
 	.card .wahana-img {
@@ -178,8 +177,13 @@
 	/* =============================== Tablet Version ================================== */
 
 	@media (min-width: 768px) {
-		
-		.card .wahana-img {
 
+		.card {
+			height: auto;
+			width: auto;
+		}
+		.card .wahana-img {
+			height: auto;
+			width: auto;
 		}
 	}
