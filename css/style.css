@@ -100,7 +100,7 @@
 		height: auto;
 	} 
 
-	.card .wahana-img {
+	.card img {
 		border-radius: 25px !important;
 		height: 200px;
 	}
@@ -158,7 +158,7 @@
 			height: auto;
 		} 
 
-		.card .wahana-img {
+		.card img {
 			border-radius: 25px !important;
 			height: 100px;
 		}
@@ -184,7 +184,7 @@
 			height: auto;
 			width: auto;
 		}
-		.card .wahana-img {
+		.card img {
 			height: auto;
 			width: auto;
 			border-radius: 25px !important;
