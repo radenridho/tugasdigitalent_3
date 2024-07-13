@@ -97,6 +97,7 @@
 
 	.card  {
 		border-radius: 25px;
+		height: auto;
 	} 
 
 	.card .wahana-img {
