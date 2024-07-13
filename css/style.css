@@ -101,7 +101,7 @@
 
 	.card img {
 		border-radius: 25px;
-		height: 20% !important;
+		height: 30%;
 	}
 	
 	.card-body .card-title {
@@ -158,7 +158,7 @@
 
 		.card img {
 			border-radius: 25px;
-			max-height: 20%;
+			height: 30%;
 		}
 		
 		.card-body .card-title {
