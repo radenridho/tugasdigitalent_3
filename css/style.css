@@ -178,10 +178,6 @@
 /* =============================== Tablet Version ================================== */
 
 @media (min-width: 768px) {
-	.card {
-		height: auto;
-		width: auto;
-	}
 	.card img {
 		height: 100%;
 		width: 100%;
@@ -191,8 +187,8 @@
 
 @media (min-width: 992px) {
 	.jumbotron {
-		height: auto;
-		width: auto;
+		height: 100%;
+		width: 100%;
 	}
 
 	.card img {
