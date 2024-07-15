@@ -116,6 +116,37 @@
 	text-align: justify;
 }
 
+.youtube h2 {
+	color: blueviolet;
+	text-align: right;
+	font-size: 30px;
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+}
+
+.youtube iframe {
+	position: relative;
+	border-radius: 20px;
+}
+
+.footer-body {
+	background-color: blueviolet;
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+}
+.footer-body .footer-text {
+	color: white;
+	font-family: "Poppins", sans-serif;
+	font-size: 15px;
+}
+.footer-text .link-github {
+	color: salmon;
+}
+.footer-text .link-github::hover {
+	color: #FF69B4;
+}
+
 /* ============================================== Mobile Version =============================================== */
 
 @media screen (min-width: 576px) {
@@ -141,6 +172,7 @@
 		font-size: 15px;
 		text-align: justify;
 	}
+
 }
 
 /* =============================== Tablet Version ================================== */
@@ -161,5 +193,10 @@
 	.card img {
 		height: 100%;
 		width: 100%;
+	}
+
+	.contet-youtube .iframe{
+		margin-left: 25px;
+		border-radius: 25px;
 	}
 }
